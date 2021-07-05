@@ -7,4 +7,4 @@ class t{constructor({selector:t,targetDate:e}){this.timerId=null,this.selector=t
 },{"./_timer.js":"rPES"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/main.js");
 },{"./sass/main.scss":"clu1","./js/main.js":"d6sW"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.4a81e03a.js.map
+//# sourceMappingURL=/goit-js-hw-11-timer/src.4a81e03a.js.map
