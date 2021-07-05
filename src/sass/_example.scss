@@ -1,0 +1,27 @@
+span {
+  font-size: 30px;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+  color: red;
+}
+
+.timer {
+  display: flex;
+  margin: 30px auto;
+  width: max-content;
+  padding: 10px;
+  background-color: rgb(0, 255, 200);
+  border: 1px solid red;
+  border-radius: 10px;
+}
+
+.field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 10px;
+}
