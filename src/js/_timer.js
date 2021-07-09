@@ -67,7 +67,7 @@ const countdownTimer = new CountdownTimer({
 
 const countdownTimer1 = new CountdownTimer({
   selector: '#timer-2',
-  targetDate: new Date('22:00:00 July 11, 2021'),
+  targetDate: new Date('22:00:00 July 8, 2021'),
   // targetDate: new Date('16:55:00 July 9, 2021'),
   titleError: 'Матч закончился победой Англии 5:0',
   titleNow: 'Матч начался'
